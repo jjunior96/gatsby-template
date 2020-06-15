@@ -1,4 +1,4 @@
-Run:
+## Run:
 
 ```
 yarn develop
@@ -6,6 +6,6 @@ yarn develop
 
 ## Features
 
-- [x] Eslint & Prettier ready!
-- [x] Styled Components & gatsby-pluging-styled-components ready!
-- [x] Folders Layout, Header & Layout ready!
+- [x] **Eslint & Prettier** ready!
+- [x] **Styled Components & gatsby-pluging-styled-components** ready!
+- [x] **Folders Layout, Header & Layout** ready!
